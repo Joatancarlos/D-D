@@ -1,3 +1,3 @@
-// import Battle from './Battle';
-// asas
-// export default Battle;
+import Battle from './Battle';
+
+export default Battle;
