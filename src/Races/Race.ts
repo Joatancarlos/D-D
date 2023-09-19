@@ -10,7 +10,7 @@ export default abstract class Race {
   }
 
   get dexterity(): number {
-    return this.dexterity;
+    return this._dexterity;
   }
 
   abstract get maxLifePoints(): number;
